@@ -1,5 +1,3 @@
----
-permalink: /
----
+
 
 [Markdown Home](./home)
