@@ -8,7 +8,3 @@ permalink: /sitemap
 [About Me](/about)
 
 [Links](/links)
-
-
-
-[Site Map](/sitemap)
