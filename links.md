@@ -2,7 +2,7 @@
 permalink: /links
 ---
 
-# Medias:
+# Medias
 
 [Site Map](/sitemap)
 
