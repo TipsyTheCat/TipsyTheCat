@@ -9,3 +9,7 @@ Follow for status updates.
 Most of the time I'll respond instantly.
 ### [Telegram](https://t.me/TipsyTheCat)
 Not very active here... Might take a bit to respond.
+
+
+
+[Site Map](/sitemap)
