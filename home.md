@@ -1,3 +1,7 @@
+---
+permalink: /home
+---
+
 # Tipsy The Cat
 A technologically literate furry.
 
