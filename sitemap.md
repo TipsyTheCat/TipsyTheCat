@@ -3,7 +3,7 @@ permalink: /sitemap
 ---
 
 # Site Map
-[Home](/home)
+[Start](/)
 
 [About Me](/about)
 
