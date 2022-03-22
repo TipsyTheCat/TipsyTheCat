@@ -8,7 +8,7 @@ permalink: /links
 
 ### [Twitter](https://twitter.com/Tipsy_The_Cat)
 Follow for status updates.
-### [Discord](https://discord.com/)
+### [Discord](https://discord.gg/AnFauJd8Gn)
 Most of the time I'll respond instantly.
 ### [Telegram](https://t.me/TipsyTheCat)
 Not very active here... Might take a bit to respond.
